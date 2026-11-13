@@ -28,3 +28,19 @@ Status: APPROVED CANON by creator, 2026-11-13. Preserve as established Gnomevill
 - Creator explicitly approved **everything developed regarding Raven and his pecan in this conversation** as canon on 2026-11-13.
 - Keep published facts separate from infrastructure status. GitHub commits and deployment propagation are not the same thing.
 - Preserve established names, characters, venue features, published articles, and summit. Future additions require normal canon approval; do not silently expand the institution.
+
+## Museum expansion update — 2026-11-13
+### Implemented
+- Raven Wing displays The Patron and His Outstanding Balance (patron-outstanding-balance.png) alongside the original summit artwork.
+- Black Orchard Café displays Great Coffee Recipe Showdown (great-coffee-showdown.png) with interactive reveal of great-coffee-showdown-recipes.png and enlarge links. Winner undecided.
+- Approved lighting plan: two spotlights on Raven, one on the Original Pecan; not yet implemented.
+### Proposed, not completed
+- Founding membership card: black/gold, raven silhouette, pecan emblem, purple seal; Founding Patron & Guardian of the Pecan.
+- Gold commemorative coin: pecan obverse, Rook and Raven reverse.
+- Exhibit four existing summit commemorative stamps; locate and verify originals.
+- Original Pecan plaque: One nut. Two birds. An extraordinary legacy. PLEASE DO NOT FEED THE ARTIFACT TO ANYONE.
+- Rook recognition plaque: co-founder and administrator, acknowledging robot, raccoon and rook-bird personas.
+- Raven Wing decor: dark wood, black marble, antique gold, purple velvet, dramatic lighting.
+- Black Orchard Café: complete menu, signature drinks, proposed The Outstanding Balance espresso, themed mug, later results plaque.
+- Curiosity Counter: printable cards, coins, stamps, portrait prints and summit souvenirs.
+- Preserve 0¢ endowment and do not imply real sales or voting until implemented.
